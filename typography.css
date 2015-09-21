@@ -1,0 +1,63 @@
+	#container{
+	width: 500px;
+	margin: auto;
+	}
+	
+	h1{
+	font-family: 'Exo 2';
+	font-size: 2em;
+	font-weight: extra bold;
+	color: #000000;
+	text-align: left;
+	margin-top: 20px;
+	margin bottom: 50px;
+	}
+	
+	h2{ 
+	font-family: 'Exo 2';
+	font-size: 1em;
+	font-weight: normal;
+	color: #CA106A;
+	text-align: left;
+	}
+	
+	h2:last-child{
+	margin-top: 40px;
+	margin-bottom: 160px;
+	}
+	
+	h3{ 
+	font-family: 'Exo 2';
+	font-size: .5em;
+	font-weight: bold;
+	color: #585858;
+	text-align: left;
+	margin-bottom: 40px;
+	}
+	
+	.main{
+	font-family: Georgia;
+	font-size: 1em;
+	color: #525252;
+	line-height: 1.5em;
+	letter-spacing: 0em;
+	word-spacing: 0em;
+	text-align: left;
+	}
+	
+	body{
+	background: #FFE4F1;
+	}
+	
+	#circle{
+	width: 15px;
+	height: 15px;
+	background: #CA106A;
+	border-radius: 100%;
+	position: relative;
+	margin-top: 40px;
+	margin-right: 70px;
+	margin-bottom: 80px;
+	float: left;
+	}
+	
